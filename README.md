@@ -1,0 +1,2 @@
+# etmkdj
+Aplicaciones Django
